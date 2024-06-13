@@ -5,3 +5,4 @@ jellyfin/jellyfin
 nyanmisaka/jellyfin
 homeassistant/home-assistant
 python
+oznu/homebridge
