@@ -1,8 +1,1 @@
-nginx
-lovechen/embyserver
-zishuo/embyserver
-jellyfin/jellyfin
-nyanmisaka/jellyfin
-homeassistant/home-assistant
-python
-oznu/homebridge
+homebridge/homebridge
