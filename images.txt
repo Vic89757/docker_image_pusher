@@ -1,1 +1,1 @@
-homebridge/homebridge
+metatube/metatube-server
