@@ -1,1 +1,9 @@
 metatube/metatube-server
+homebridge/homebridge
+homeassistant/home-assistant
+emby/embyserver
+lovechen/embyserver
+jellyfin/jellyfin
+nyanmisaka/jellyfin
+python
+nginx
